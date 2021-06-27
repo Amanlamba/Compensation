@@ -1,0 +1,20 @@
+Name           |  Base Salary       |     Place
+------------------------------------------------------
+Amazon               17L                  BLR, GUR
+Microsoft            17L                  BLR, HYD
+Disney+Hotstar       17L                  BLR, GUR
+Swiggy               18L                  BLR
+Zomato               26L(1.5y)            GUR
+GS                   25L(1.5y)            BLR
+Morgan stanley       25L(2y)              BLR, MUM
+Grofers              17L(1y)              BLR 
+Walmart              17L                  BLR
+Flipkart             18L                  BLR
+Linkedin             22L                  BLR
+Gojek                21L                  BLR, GUR
+Cred                                      BLR
+Google               18L                  BLR, GUR
+Uber                 26L                  BLR
+Grab                 21L                  BLR
+Expedia                                   GUR
+Razorpay             17L                  BLR
