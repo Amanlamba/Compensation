@@ -18,5 +18,5 @@ Zeta                 21L             BLR
 Linkedin             22L             BLR
 Cure.Fit             22L             BLR
 Dunzo                23L             BLR
-Grab
-Gojek
+Grab - startup
+Gojek - startup
