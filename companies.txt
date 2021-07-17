@@ -20,3 +20,4 @@ Cure.Fit             22L             BLR
 Dunzo                23L             BLR
 Grab - startup
 Gojek - startup
+Hike
