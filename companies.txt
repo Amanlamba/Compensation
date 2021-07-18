@@ -21,3 +21,5 @@ Dunzo                23L             BLR
 Grab - startup
 Gojek - startup
 Hike
+Ola
+Eightfold
