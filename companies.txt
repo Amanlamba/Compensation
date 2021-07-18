@@ -1,25 +1,22 @@
 Name           |  Base Salary  |     Place
 -------------------------------------------------
 Zomato               16L             GUR
-Grofers              17L             BLR
-Walmart              17L             BLR
 Razorpay             17L             BLR
 Intuit               17L             BLR
 Amazon               18L             BLR, GUR
 Microsoft            18L             BLR, HYD
-Disney+Hotstar       18L             BLR, GUR
+Hotstar              18L             BLR, GUR
 Swiggy               20L             BLR
 Flipkart             20L             BLR
 Google               20L             BLR, GUR
 Phonepe              20L             BLR
 Cred                 21L             BLR
 Uber                 21L             BLR, HYD
-Zeta                 21L             BLR
 Linkedin             22L             BLR
-Cure.Fit             22L             BLR
+Cultfit              22L             BLR
 Dunzo                23L             BLR
-Grab - startup
-Gojek - startup
+Grab
+Gojek
 Hike
 Ola
 Eightfold
