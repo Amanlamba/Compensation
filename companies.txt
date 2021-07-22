@@ -1,22 +1,28 @@
-Name           |  Base Salary  |     Place
+Name           |  Base Salary  |   Interested?
 -------------------------------------------------
-Zomato               16L             GUR
-Razorpay             17L             BLR
-Intuit               17L             BLR
-Amazon               18L             BLR, GUR
-Microsoft            18L             BLR, HYD
-Hotstar              18L             BLR, GUR
-Swiggy               20L             BLR
-Flipkart             20L             BLR
-Google               20L             BLR, GUR
-Phonepe              20L             BLR
-Cred                 21L             BLR
-Uber                 21L             BLR, HYD
-Linkedin             22L             BLR
-Cultfit              22L             BLR
-Dunzo                23L             BLR
-Grab
-Gojek
-Hike
-Ola
-Eightfold
+Amazon               18L               Y
+Ansys                19L               N
+Cred                 21L               N
+Cultfit              22L               N
+Dailyhunt            18L               N
+Dunzo                23L               N
+Eightfold            31L               Y
+Estee Advisors       18L               N
+Flipkart             20L               Y
+Goibibo              18L               N
+Gojek                21L               N
+Goldman Sachs        25L               N
+Google               20L               Y
+Grab                 20L               N
+Hike                 20L               N
+Hotstar              18L               Y
+Intuit               17L               Y
+Limeroad             19L               N
+Linkedin             22L               Y
+Microsoft            18L               Y
+Ola                  20L               N
+Phonepe              20L               Y
+Razorpay             17L               Y
+Swiggy               20L               Y
+Uber                 21L               Y
+Zomato               16L               Y
