@@ -1,28 +1,24 @@
 Name           |  Base Salary  |   Interested?
 -------------------------------------------------
-Ansys                19L               N
-Cred                 21L               N
-Cultfit              22L               N
 Dailyhunt            18L               N
-Dunzo                23L               N
-Estee Advisors       18L               N
 Goibibo              18L               N
-Gojek                21L               N
-Goldman Sachs        25L               N
 Grab                 20L               N
-Hike                 20L               N
-Limeroad             19L               N
 Ola                  20L               N
 Amazon               18L               Y
-Eightfold            31L               Y
 Flipkart             20L               Y
 Google               20L               Y
-Hotstar              18L               Y
 Intuit               17L               Y
-Linkedin             22L               Y
 Microsoft            18L               Y
-Phonepe              20L               Y
-Razorpay             17L               Y
 Swiggy               20L               Y
 Uber                 21L               Y
 Zomato               16L               Y
+Cultfit              22L               
+Hike                 20L               
+Eightfold            31L               
+Phonepe              20L               
+Razorpay             17L                
+Cred                 21L         
+Gojek                21L               
+Linkedin             22L               
+Hotstar              18L               
+Dunzo                23L               
