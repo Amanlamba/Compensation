@@ -4,11 +4,9 @@ Dailyhunt            18L               N
 Goibibo              18L               N
 Grab                 20L               N
 Ola                  20L               N
-Amazon               18L               Y
 Flipkart             20L               Y
 Google               20L               Y
 Intuit               17L               Y
-Microsoft            18L               Y
 Swiggy               20L               Y
 Uber                 21L               Y
 Zomato               16L               Y
@@ -22,3 +20,5 @@ Gojek                21L
 Linkedin             22L               
 Hotstar              18L               
 Dunzo                23L               
+Microsoft            18L               
+Amazon               18L               

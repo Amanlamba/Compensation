@@ -1,9 +1,11 @@
-Response - Tower Research Capital, Eightfold.ai
+Response - Tower Research Capital, Eightfold.ai, Gojek
 
 12 Jul - Sprinklr, Hike
 23 Jul - RazorPay
 24 Jul - PhonePe, Cure.Fit
-27 Jul - Cred, Gojek
+27 Jul - Cred
 28 Jul - Linkedin
 29 Jul - Hotstar, Dunzo
 30 Jul - Hike(referral)
+31 Jul - Grab
+02 Aug - PhonePe referral, Amazon, Microsoft
