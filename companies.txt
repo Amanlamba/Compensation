@@ -1,24 +1,22 @@
-Name           |  Base Salary  |   Interested?
--------------------------------------------------
-Dailyhunt            18L               N
-Goibibo              18L               N
-Grab                 20L               N
-Ola                  20L               N
-Flipkart             20L               Y
-Google               20L               Y
-Intuit               17L               Y
-Swiggy               20L               Y
-Uber                 21L               Y
-Zomato               16L               Y
-Cultfit              22L               
-Hike                 20L               
-Eightfold            31L               
-Phonepe              20L               
-Razorpay             17L                
-Cred                 21L         
-Gojek                21L               
-Linkedin             22L               
-Hotstar              18L               
-Dunzo                23L               
-Microsoft            18L               
-Amazon               18L               
+Name           |  Base Salary
+-----------------------------
+Amazon               18L
+Cred                 21L
+Cultfit              22L
+Dunzo                23L
+Eightfold            31L
+Flipkart             20L
+Gojek                21L
+Google               20L
+Grab                 20L
+Hike                 20L
+Hotstar              18L
+Intuit               17L
+Linkedin             22L
+Microsoft            18L
+Ola                  20L
+Phonepe              20L
+Razorpay             17L
+Swiggy               20L
+Uber                 21L
+Zomato               16L
