@@ -36,3 +36,22 @@ Jul 29 2021       | Hotstar, Dunzo
 Jul 30 2021       | Gojek
 Jul 31 2021       | Grab
 Aug 02 2021       | Phonepe, Amazon, Microsoft
+
+## Target companies & Tech stacks
+Company           | Tech Stack
+----------------- | --------------------------
+Amazon            | C, C++, Java, HTML, CSS, JS, React
+Cultfit           | Java, JS, Python, System design, Nodejs, J2EE, Apache
+Eightfold         | Python, Flask, React, Redux, AWS services like Aurora, S3
+Flipkart          | Java
+Gojek             | Golang, Java, Ruby, Design Patterns, Postgres, Kafka, RabbitMQ, NodeJS
+Hike              | HTML, CSS, JS, Websockets, ReactJS
+Hotstar           | Nodejs, JEE, Spring, Hibernate, AWS stack
+Linkedin          | EmberJS, Angular, React, Java
+Phonepe           | Java, C, C++, etc
+
+## Must do items
+* Skills
+  * Languages - C, C++, Java, Python
+  * Web Tech - HTML, CSS, Javascript, NodeJS, Express, SQL(Mysql and postgres), NoSQL(MongoDB), Hibernate, Hbs (SSR), oauth, socket.io, Mocha and chai, Frontend testing tool, apache, linux, AWS, React, Redux, System design
+* Basics
