@@ -1,0 +1,18 @@
+
+
+
+
+
+
+        while(true)
+        {
+            Subhesh topics
+            Keep giving contests
+
+            Experience (Office projects + Internship + Add specifics)
+            Projects (Motive + Specifics + Basics of tech + Why only this tech)
+            System Design (Templates + How to design HLD, LLD)
+            Tech Skills (C++, Java, SQL, WebD Repo)
+            Core Subjects (OS, DBMS, Networking, OOPS, ML Basics)
+            Leadership Principles
+        }
